@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\source\repos\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Kab-35-6\source\repos\Abstract\bin\Debug\Abstract.exe
+C:\Users\Kab-35-6\source\repos\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Kab-35-6\source\repos\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\source\repos\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\source\repos\Abstract\obj\Debug\Abstract.exe
+C:\Users\Kab-35-6\source\repos\Abstract\obj\Debug\Abstract.pdb
